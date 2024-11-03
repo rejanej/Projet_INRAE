@@ -1,3 +1,5 @@
+# Analyse par images Satellites de la dynamique d’eutrophisation
+
 Ce projet a été réalisé par Alexis Alzuria, Raphaël Barateau, Océanne Bousquet, Grégoire Doat, Yannis Lebrun, Aurélien Loncq et Malik Masri ; avec comme cheffe de projet Réjane Joyard.
 Il a été encadré par Michel Berthier, Catherine Choquet et Eloise Comte en collaboration avec l'INRAE.
 
